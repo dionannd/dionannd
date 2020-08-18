@@ -2,7 +2,7 @@
 
 <br/>
 
-<a href="https://twitter.com/dionannd">
+<a href="https://t.me/dionannd">
   <img align="left" alt="Dian's | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.facebook.com/dion.ananda/">
