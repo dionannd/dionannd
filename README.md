@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-Hi, I'm Dian Ananda, a 20 years-old Full Stack Developer 🚀 from Indonesian. im always learning to be a Backend Developer, like the new knowledge.
+Hi, I'm Dian Ananda, a 20 years-old <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Full Stack Developer from Indonesian. im always learning to be a Backend Developer, like the new knowledge.
 
 - 🔭 I’m currently working on my home with Handphone & PC/Laptop Service
 - 🌱 I’m currently learning React & Liveware
