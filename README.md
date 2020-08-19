@@ -44,4 +44,8 @@ Hi, I'm Dian Ananda, a 20 years-old <img src="https://media.giphy.com/media/WUlp
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dionannd&repo=dionannd.github.io&theme=radical" />
 </a>
 
-​[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionannd&layout=compact&hide=html)](https://github.com/dionannd/github-readme-stats)
+<a href="https://github.com/piyushsuthar/github-readme-quotes">
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
+
+</a>
