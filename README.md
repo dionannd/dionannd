@@ -20,8 +20,8 @@
 
 Hi, I'm Dian Ananda, a 20 years-old <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Full Stack Developer from Indonesia. always learning to be a Backend Developer, like the new knowledge.
 
-- 🔭 I’m currently working on my home with Handphone & PC/Laptop Service
-- 🌱 I’m currently learning React & Liveware
+- 🔭 I’m currently working on my home be a technical Software & Hardware Android Handphone
+- 🌱 I’m currently learning React & GraphQL
 - 💬 Ask me about anything [here](https://github.com/dionannd/dionannd/issues)
 
 **Languages and Tools:**
