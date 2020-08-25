@@ -45,7 +45,5 @@ Hi, I'm Dian Ananda, a 20 years-old <img src="https://media.giphy.com/media/WUlp
 </a>
 
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
-
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
-
 </a>
