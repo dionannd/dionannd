@@ -1,6 +1,6 @@
 ### Hi there, I'm [Dian!](https://dianananda.vercel.app) 👋
 
-Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia. Always learning to be a Full Stack Developer, like the new knowledge. Record traces by writing in [Jejak Koding](https://jejakkoding.blogspot.com).
+Web Developer from Indonesia. Always learning to be a Full Stack Developer, like the new knowledge. Record traces by writing in [Jejak Koding](https://jejakkoding.blogspot.com).
 
 **Languages and Tools:**
 
