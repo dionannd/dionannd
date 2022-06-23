@@ -10,7 +10,7 @@ Web Developer from Indonesia. Always learning to be a Full Stack Developer 🚀,
 - 🌱 I’m currently learning Typescripts and Golang; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: dionananda77@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1jFEL0_KAJEd1mCiR_02SMwbBEuRMqpv7/view)
+- 📝 [Resume](https://dionannd.github.io/)
 
 **Languages and Tools:**
 
