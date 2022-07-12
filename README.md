@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Dian!](https://dianananda.vercel.app)
+### Hey 👋🏽, I'm [Dian!](https://links-dionannd.vercel.app/)
 
 <br />
 
