@@ -12,7 +12,7 @@ Dian Ananda
 </h3>
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=14&duration=3000&color=F7076D&multiline=true&height=105&lines=const+firstName+%3D+'Dian';const+lastName+%3D+'+Ananda';+;console.log(firstName%2C+lastName);Dian+Ananda)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=12&duration=2000&color=F7076D&multiline=true&height=105&lines=const+firstName+%3D+'Dian';const+lastName+%3D+'+Ananda';+;console.log(firstName%2C+lastName);Dian+Ananda)](https://git.io/typing-svg)
 ### Hey 👋🏽, I'm [Dian!](https://links-dionannd.vercel.app/)
 
 <br />
