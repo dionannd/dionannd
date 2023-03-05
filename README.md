@@ -17,7 +17,7 @@ Dian Ananda
 
 <br />
 
-Web Developer from Indonesia. Always learning to be a Full Stack Developer 🚀, like the new knowledge. Record traces by writing in [Jejak Koding](https://jejakkoding.blogspot.com).
+Web Developer from Indonesia. Always learning to be a Full Stack Developer 🚀, like the new knowledge. Record traces by writing in [My blog](https://blog.dianananda.site).
 
 **Talking about Personal Stuffs:**
 
