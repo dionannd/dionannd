@@ -13,7 +13,7 @@ Dian Ananda
 -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=12&duration=2000&color=F0DC4D&multiline=true&height=105&lines=const+firstName+%3D+'Dian';const+lastName+%3D+'Ananda';+;console.log(firstName%2C+lastName);Dian+Ananda)](https://git.io/typing-svg)
-### Hey 👋🏽, I'm [Dian!](https://links-dionannd.vercel.app/)
+### Hey 👋🏽, I'm [Dian!](https://dianananda.site/)
 
 <br />
 
