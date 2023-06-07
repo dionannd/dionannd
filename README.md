@@ -22,7 +22,7 @@ Web Developer from Indonesia. Always learning to be a Full Stack Developer 🚀,
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [Towedd](https://towedd.com/);
-- 🌱 I’m currently learning Typescript and Golang; 
+- 🌱 I’m currently learning Flutter and Golang; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: dionananda77@gmail.com;
 - 📝 [Resume](https://dionannd.github.io/);
