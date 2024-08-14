@@ -41,7 +41,9 @@ Full Stack Web Developer from Indonesia. Always learn to be better 🚀, like ne
 
 [![Platform](https://skillicons.dev/icons?i=github,gitlab,bitbucket,vercel,netlify)](https:#)
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
+**Stats:**
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dionannd&hide=contribs&show_icons=true&theme=tokyonight)](https://github.com/dionannd?tab=repositories)
+[![GitHub stats lang](https://github-readme-stats.vercel.app/api/top-langs/?username=dionannd&layout=compact&theme=react&hide=php&langs_count=6)](https://github.com/dionannd?tab=repositories)
 
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
