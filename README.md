@@ -25,8 +25,8 @@ Full Stack Web Developer from Indonesia. Always learn to be better 🚀, like ne
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Arcentric](https://www.arcentric.design);
-- 🌱 I’m currently learning **Flutter** and **Go**; 
+- 👨🏽‍💻 I’m currently working on Jubelio;
+- 🌱 I’m currently learning **Flutter** and mastering **Nextjs**; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: dionananda77@gmail.com;
 - 📝 [Resume](https://dionannd.github.io/);
