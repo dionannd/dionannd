@@ -17,8 +17,6 @@ Dian Ananda
 
 Full Stack Web Developer from Indonesia. Always learn to be better 🚀, like new things that I have never learned, record experiences by writing on a blog.
 
-[Leave your mark on my Guestbook](https://dianananda.vercel.app/guestbook).
-
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px" height="50px">
 
 [![](https://komarev.com/ghpvc/?username=dionannd&color=000000)](https://github.com/dionannd?tab=repositories)
