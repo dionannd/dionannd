@@ -13,7 +13,7 @@ Dian Ananda
 -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=12&duration=2000&color=F0DC4D&multiline=true&height=105&lines=const+firstName+%3D+'Dian';const+lastName+%3D+'Ananda';+;console.log(firstName%2C+lastName);Dian+Ananda)](https://git.io/typing-svg)
-### Hey <!--👋--> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Dion!](https://dianananda.vercel.app/)
+### Hey <!--👋--> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Dion!](https://dioen.xyz/)
 
 Full Stack Web Developer from Indonesia. Always learn to be better 🚀, like new things that I have never learned, record experiences by writing on a blog.
 
