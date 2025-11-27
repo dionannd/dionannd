@@ -33,7 +33,7 @@ Full Stack Web Developer from Indonesia. Always learn to be better 🚀, like ne
 
 [![OS](https://skillicons.dev/icons?i=apple,windows,ubuntu)](https:#)
 
-[![Lang & Framework](https://skillicons.dev/icons?i=ts,js,angular,md,nextjs,tailwind,express,nodejs,bun,laravel)](https:#)
+[![Lang & Framework](https://skillicons.dev/icons?i=ts,js,angular,md,nextjs,vite,tailwind,express,nodejs,bun)](https:#)
 
 [![DB & Tools](https://skillicons.dev/icons?i=postgresql,mysql,mongodb,figma,notion,vscode,postman,docker,git,neovim)](https:#)
 
